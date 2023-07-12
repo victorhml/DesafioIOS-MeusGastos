@@ -37,3 +37,23 @@ programação;
 * Nenhum item precisará de DataCriacao, DataAlteracao e Uid, mesmo que estejam na API;
 * O EntryType poderá ser String ou Int, no caso, o POST deve-se mandar o nome do elemento do vetor [“Entrada”, “Saida”] como String e no GET, a resposta será do índice do vetor [“Entrada”, “Saida”]  que virá como Int.
 * Ao salvar o lançamento, enviar o valor do CategoryId como Int e a categoria como nula. A categoria será obtida pela chamada /Api/Categorys/GetCategoryById.
+
+## Sprint 1
+
+<img src="Images/Logar.png" width="200"/> <img src="Images/Registrar.png" width="200"/>
+
+## Sprint 2
+
+<img src="Images/Categorias - Vazio.png" width="200"/> <img src="Images/Categorias - Loading.png" width="200"/>  <img src="Images/Categorias.png" width="200"/>
+<br>
+<img src="Images/Adicionar.png" width="200"/>  <img src="Images/Editar.png" width="200"/>
+
+## Sprint 3
+
+<img src="Images/Meus Gastos - Vazio.png" width="200"/> <img src="Images/Meus Gastos - Loading.png" width="200"/>  <img src="Images/Gastos.png" width="200"/>
+<br>
+<img src="Images/Adicionar Lancamento.png" width="200"/>  <img src="Images/Editar Lancamento.png" width="200"/> <img src="Images/Exemplo de Picker.png" width="200"/>
+
+## Sprint 4
+
+<img src="Images/Lancamentos - Elementos de Tela.png" width="350"/> <img src="Images/Lancamentos - Vazio.png" width="200"/>
